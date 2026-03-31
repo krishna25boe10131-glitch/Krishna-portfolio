@@ -1,39 +1,6 @@
-# Krishna-portfolio
-
-##  About Me
-- B.Tech Bioengineering student at VIT Bhopal  
-- Interested in biology, technology, and research  
-- Beginner in programming  
-
-
-##  Tasks Overview
-
-### Task 1: GitHub Basics
-- Created a repository
-- Learned how to upload files and manage projects
-
-### Task 2: File Organization
-- Organized files and folders properly
-- Understood structured project management
-
-### Task 3: Programming Basics
-- Learned basic programming concepts
-- Worked with simple code files
-
-### Task 4: Email & Social Media Etiquette
-- Wrote professional emails
-- Learned proper online behavior and communication
-
-### Task 5: Cybercrime Awareness
-- Created a case study on UPI fraud
-- Designed a prevention checklist for online safety
-
-##  Key Learnings
-
-- Improved digital and technical skills  
-- Learned professional communication  
-- Understood importance of online safety  
-- Built a GitHub portfolio  
-
-##  Contact
-- Email: krishna.25boe10131@vitbhopal.ac.in 
+Digital Portfolio Project
+Overview 
+This project is a collection of five tasks focused on building basic technical and professional skills. It includes learning GitHub, organizing files, understanding programming basics, practicing email communication and social media etiquette, and creating a cybercrime awareness case study.
+Overall, the project helped improve my digital skills, communication, and awareness of online safety.
+https://docs.google.com/forms/d/1BqXjzyCYSNtvdiNS_1lyTL7f2j9kqBakzsCBZOgDfnU/edit#responses
+https://www.linkedin.com/in/krishna-d-8687553bb/
